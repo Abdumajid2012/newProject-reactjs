@@ -169,7 +169,7 @@ function Accordion1() {
           <h5>7.Function va return</h5>
           </Typography>
           <Typography >
-          <h5>8.Dom bilan ishlash</h5>
+          <h5>8.Dom bilan ishlash..</h5>
           </Typography>
           <Typography >
           <h5>Amaliyot (Project)</h5>
