@@ -33,7 +33,7 @@ const Alice = () => {
 
     return (
         <div>
-             <AliceCarousel autoPlay={true} autoPlayInterval={5000} mouseTracking items={items} />
+             <AliceCarousel autoPlay={true} autoPlayInterval={4000} mouseTracking items={items} />
 
              {/* cardlatr */}
              <Container >
